@@ -1,8 +1,8 @@
-# Note-taker
+<h1 align="center">📕 Note Taker</h1>
+ 
+<div id="top"></div>
 
-<Top>
-
-Use `Note_Taker` to uickly record and save notes or create a TODO list.
+<p style="color: yellow">Use `Note Taker` to quickly record and save notes or create a TODO list.</p>
 
 ## __Table of Contents__
 - [Note_Taker](#bote_taker)<br>
@@ -15,15 +15,14 @@ Use `Note_Taker` to uickly record and save notes or create a TODO list.
 
 ## Installation 
 
-Note_Taker deployed on <u><i>**Heroku**</i></u>.
+🔺Use Note_Taker deployed on *Heroku* **or**
+<br> 
+🔺Download locally to machine: 
+1. Verify that `Node.JS` is installed by typing `node -v` into the prompt and press enter. To install Node.JS [click-here](https://nodejs.org/en/)
 
-To download locally to machine:
-<br>
-1️⃣ Verify that `Node.JS` is installed on your machine. To verify, open a terminal - type `node -v` into the prompt and press enter. To install Node.JS, [click here](https://nodejs.org/en/) <br>
+2. Clone the repository using HTTPS or SSH key. To clone a repository using GitHub CLI, click Use GitHub CLI.<br>
 
-2️⃣ Clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click . To clone a repository using GitHub CLI, click Use GitHub CLI, then click .<br>
-
-3️⃣ Open Git Bash and navigate to the location you want the cloned directory.
+3. Open Git Bash and navigate to the location you want the cloned directory.
 
   * Type `git clone`, then past the URL you copied.
 
@@ -49,25 +48,26 @@ To download locally to machine:
 	$ code .
 	```
 
-4️⃣ Open a new terminal and run
+4. Open a new terminal and run
 	`node server.js`
 
-5️⃣ Open your internet browser and search URL `localhost:3001/`
+5. Open your internet browser and search URL `localhost:3001/`
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">/ <a href="#top">back to top</a></p>
 
 ## Screenshots
 ![alt text](./public/assets/imgs/20220102_3840x1898.jpg)<br>
 <br><br><br>
 ![alt text](./public/assets/imgs/20220102_3840x1898%20(2).jpg)<br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">/<a href="#top">back to top</a></p>
 
 ## Usage
 
 Note_Taker is divided in columns: writing and editing notes is done in the right column and a viewable list of saved notes is displayed in the left column. Notes are filtered in the order in which they are written. Click any note in the list to view, edit, or delete or create new note by typing in text area and clicking the save icon. 
 
 ## Web Technologies
+
 | Technology | URL | 
 | :---: | :----: |  
 | HTML  | [HTML](www.html.com) |
@@ -76,6 +76,7 @@ Note_Taker is divided in columns: writing and editing notes is done in the right
 | NodeJS | [HTML](www.html.com) |
 | ExpressJS | [HTML](www.html.com) |
 | NoS | [HTML](www.html.com) |
+| :---: | :----: | 
 
 ## Credit
 [Damien Luzzo](https://www.github.com/damienluzzo33) - For helping me change direction on the way I was setting up my routes.
@@ -86,9 +87,11 @@ Note_Taker is divided in columns: writing and editing notes is done in the right
 🔗 [linkedIn](https://www.linkedin.com/in/vlsullivan/)<br>
 🖥️ [GitHub](https://www.github.com/vlsulliv)<br>
 
-## License #  hdsaJK
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-This work licensed under the [MIT](https://choosealicense.com  ) license\  <p align="right"><a href="#top">back to top</a>  </p>  
+## License #  
+<p align="right"><a href="#top">back to top</a></p>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT/)  
+This work completed under the [MIT](https://choosealicense.com) license
 
 ---
-Project By: Vincent Sullivan ✌️🐢
+♾️ __Project By__``:`` **V**incent **S**ullivan ✌️🐢  
