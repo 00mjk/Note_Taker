@@ -94,4 +94,4 @@ Note_Taker is divided in columns: writing and editing notes is done in the right
 This work completed under the [MIT](https://choosealicense.com) license
 
 ---
-♾️ __Project By__``:`` **V**incent **S**ullivan ✌️🐢  
+__Project By__: **V**incent **S**ullivan ✌️🐢  
