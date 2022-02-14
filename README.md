@@ -92,7 +92,7 @@ Note_Taker is divided in columns: writing and editing notes is done in the right
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT/)  
 This work completed under the [MIT](https://choosealicense.com) license
 
-``Project By: Vincent Sullivan ✌️🐢 `` 
 
 ---
+``Project By: Vincent Sullivan ✌️🐢 `` 
 <p align="center"><a href="#top">back to top</a></p>
