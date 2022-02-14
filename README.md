@@ -18,10 +18,11 @@ __Table of Contents__
 Note_Taker deployed on <u><i>**Heroku**</i></u>.
 
 To download locally to machine:<br>
+<br>
 1️⃣ Verify that `Node.JS` is installed on your machine. To verify, open a terminal - type `node -v` into the prompt and press enter. To install Node.JS, [click here](https://nodejs.org/en/) <br>
 
-Clone the repository <br>
-2️⃣ To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click . To clone a repository using GitHub CLI, click Use GitHub CLI, then click .<br>
+2️⃣ Clone the repository <br><br>
+To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click . To clone a repository using GitHub CLI, click Use GitHub CLI, then click .<br>
 
 3️⃣ Open Git Bash and navigate to the location you want the cloned directory.<br>
 
