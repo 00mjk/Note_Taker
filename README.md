@@ -62,7 +62,7 @@
 
 ## Usage
 
-<p align="right">/<a href="#top">back to top</a></p>
+<p align="center"><a href="#top">back to top</a></p>
 
 Note_Taker is divided in columns: writing and editing notes is done in the right column and a viewable list of saved notes is displayed in the left column. Notes are filtered in the order in which they are written. Click any note in the list to view, edit, or delete or create new note by typing in text area and clicking the save icon. 
 
