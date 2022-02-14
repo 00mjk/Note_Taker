@@ -88,9 +88,9 @@ Note_Taker is divided in columns: writing and editing notes is done in the right
 🔗 [linkedIn](https://www.linkedin.com/in/vlsullivan/)<br>
 🖥️ [GitHub](https://www.github.com/vlsulliv)<br>
 
-## License
+## License ## <p align="right">(<a href="#top">back to top</a>)</p>
 This work licensed under the [MIT](https://choosealicense.com/licenses/mit/) license<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 Project By: Vincent Sullivan ✌️🐢
