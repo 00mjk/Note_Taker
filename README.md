@@ -76,7 +76,6 @@ Note_Taker is divided in columns: writing and editing notes is done in the right
 | NodeJS | [HTML](www.html.com) |
 | ExpressJS | [HTML](www.html.com) |
 | NoS | [HTML](www.html.com) |
-| :---: | :----: | 
 
 ## Credit
 [Damien Luzzo](https://www.github.com/damienluzzo33) - For helping me change direction on the way I was setting up my routes.
