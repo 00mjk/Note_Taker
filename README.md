@@ -53,16 +53,16 @@
 
 5. Open your internet browser and search URL `localhost:3001/`
 
-<p align="right">/ <a href="#top">back to top</a></p>
 
 ## Screenshots
 ![alt text](./public/assets/imgs/20220102_3840x1898.jpg)<br>
 <br><br><br>
 ![alt text](./public/assets/imgs/20220102_3840x1898%20(2).jpg)<br>
 
-<p align="right">/<a href="#top">back to top</a></p>
 
 ## Usage
+
+<p align="right">/<a href="#top">back to top</a></p>
 
 Note_Taker is divided in columns: writing and editing notes is done in the right column and a viewable list of saved notes is displayed in the left column. Notes are filtered in the order in which they are written. Click any note in the list to view, edit, or delete or create new note by typing in text area and clicking the save icon. 
 
