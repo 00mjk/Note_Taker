@@ -1,6 +1,6 @@
 # Note-taker
 
-<div id="top"></div>
+<Top>
 
 Use `Note_Taker` to uickly record and save notes or create a TODO list.
 
@@ -67,8 +67,6 @@ To download locally to machine:
 
 Note_Taker is divided in columns: writing and editing notes is done in the right column and a viewable list of saved notes is displayed in the left column. Notes are filtered in the order in which they are written. Click any note in the list to view, edit, or delete or create new note by typing in text area and clicking the save icon. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Web Technologies
 | Technology | URL | 
 | :---: | :----: |  
@@ -88,9 +86,9 @@ Note_Taker is divided in columns: writing and editing notes is done in the right
 🔗 [linkedIn](https://www.linkedin.com/in/vlsullivan/)<br>
 🖥️ [GitHub](https://www.github.com/vlsulliv)<br>
 
-## License ## <p align="right">(<a href="#top">back to top</a>)</p>
-This work licensed under the [MIT](https://choosealicense.com/licenses/mit/) license<br>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+## License #  hdsaJK
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+This work licensed under the [MIT](https://choosealicense.com) license  <p align="right">(<a href="#top">back to top</a>)</p>  
+  
 ---
 Project By: Vincent Sullivan ✌️🐢
